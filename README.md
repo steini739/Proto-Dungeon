@@ -1,3 +1,3 @@
 # Proto-Dungeon
 
-A 2D Hack&Slash Dungeon Game.
+A 2D Hack&Slay Dungeon Game.
